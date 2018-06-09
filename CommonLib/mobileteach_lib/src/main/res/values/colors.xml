@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#089AF3</color>
+    <color name="primary_dark">#006EB3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="themeblue">#089AF3</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="secondary_text">#757575</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="red">#EF1111</color>
+    <color name="black_board_color">#354044</color>
+
+    <color name="backgroud_picture_edit">#B3000000</color>
+    <color name="picture_upload_retry">#2dabff</color>
+    <color name="picture_upload_retry_press">#303F9F</color>
+
+
+    <color name="sign_in">#1ec742</color>
+    <color name="un_sign_in">#a8b2ba</color>
+    <color name="function_press">#dcf0fe</color>
+    <color name="divider_color">#f5f6f8</color>
+    <color name="divider_view">#becad4</color>
+
+
+</resources>
